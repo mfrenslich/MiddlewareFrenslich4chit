@@ -62,6 +62,7 @@ public class TimingstationData {
 	public void setAltitude(double altitude) {
 		this.altitude = altitude;
 	}
+	/**
 	public String () {
 		return timingstationID;
 	}
@@ -69,6 +70,7 @@ public class TimingstationData {
 	public void (String timingstationID) {
 		this.timingstationID = timingstationID;
 	}
+	**/
 	public double getPartyID() {
 		return partyID;
 	}
